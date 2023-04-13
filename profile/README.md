@@ -28,3 +28,17 @@ Linguagens & Tecnologias: `Jira`, `Java`, `Eclipse`, `IntelliJ`
 **Francisco Remo** \
 [**IFMA**](https://portal.ifma.edu.br/inicio/) • São Luís \
 Linguagens & Tecnologias: `Java`, `Eclipse`, `IntelliJ`
+
+</br>
+
+[<img align="left" height="84px" width="84px" alt="@Andesonkk" src="https://avatars.githubusercontent.com/Andesonkk?size=64">](https://github.com/Andesonkk)
+**Anderson Rodrigues** \
+[**IFMA**](https://portal.ifma.edu.br/inicio/) • São Luís \
+Linguagens & Tecnologias: `CSS`, `HTML`
+
+</br>
+
+[<img align="left" height="84px" width="84px" alt="@Hasky2309" src="https://avatars.githubusercontent.com/Hasky2309?size=64">](https://github.com/Hasky2309)
+**João Guilherme** \
+[**IFMA**](https://portal.ifma.edu.br/inicio/) • São Luís \
+Linguagens & Tecnologias: `CSS`, `HTML`
