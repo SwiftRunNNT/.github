@@ -9,7 +9,7 @@ Acesso rapido
 
 ![Classroom](https://img.shields.io/badge/-Classroom-333333?style=for-the-badge&logo=google-classroom)
 ![Replit](https://img.shields.io/badge/-Replit-333333?style=for-the-badge&logo=replit)
-![Notion](https://img.shields.io/badge/-Notion-333333?style=for-the-badge&logo=notion)
+[![Notion](https://img.shields.io/badge/-Notion-333333?style=for-the-badge&logo=notion)](https://www.notion.so/Pesquisa-CBL-f57675fdf031403ca7a4eb7a30044d4a)
 
 ### Linguagem e Ferramentas
 [![Swift](https://img.shields.io/badge/-Swift-333333?style=for-the-badge&logo=swift)](https://www.swift.org/documentation/)
