@@ -40,5 +40,5 @@ Linguagens & Tecnologias: `CSS`, `HTML`
 
 [<img align="left" height="84px" width="84px" alt="@Hasky2309" src="https://avatars.githubusercontent.com/Hasky2309?size=64">](https://github.com/Hasky2309)
 **João Guilherme** \
-[**IFMA**](https://portal.ifma.edu.br/inicio/) • São Luís \
+[**IFMA**](https://portal.ifma.edu.br/inicio/) • Pinheiro \
 Linguagens & Tecnologias: `CSS`, `HTML`
