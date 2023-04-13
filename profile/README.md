@@ -33,7 +33,7 @@ Linguagens & Tecnologias: `Java`, `Eclipse`, `IntelliJ`
 
 [<img align="left" height="84px" width="84px" alt="@Andesonkk" src="https://avatars.githubusercontent.com/Andesonkk?size=64">](https://github.com/Andesonkk)
 **Anderson Rodrigues** \
-[**IFMA**](https://portal.ifma.edu.br/inicio/) • São Luís \
+[**IFMA**](https://portal.ifma.edu.br/inicio/) • Pinheiro \
 Linguagens & Tecnologias: `CSS`, `HTML`
 
 </br>
