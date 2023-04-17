@@ -13,6 +13,7 @@ Acesso rapido
 
 ### Linguagem e Ferramentas
 [![Swift](https://img.shields.io/badge/-Swift-333333?style=for-the-badge&logo=swift)](https://www.swift.org/documentation/)
+[![Apple](https://img.shields.io/badge/-XCode-333333?style=for-the-badge&logo=apple)](https://developer.apple.com/xcode/)
 [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)](https://docs.github.com/pt)
 [![Jira](https://img.shields.io/badge/-Jira-333333?style=for-the-badge&logo=jira&logoColor=007ACC)](https://confluence.atlassian.com/jira)
 
