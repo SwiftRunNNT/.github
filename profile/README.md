@@ -7,8 +7,7 @@
 Acesso rapido
 </h3>
 
-![Classroom](https://img.shields.io/badge/-Classroom-333333?style=for-the-badge&logo=google-classroom)
-![Replit](https://img.shields.io/badge/-Replit-333333?style=for-the-badge&logo=replit)
+[![Classroom](https://img.shields.io/badge/-Classroom-333333?style=for-the-badge&logo=google-classroom)](https://classroom.google.com/u/0/c/NTQzMzM4ODIyMzAy)
 [![Notion](https://img.shields.io/badge/-Notion-333333?style=for-the-badge&logo=notion)](https://www.notion.so/Pesquisa-CBL-f57675fdf031403ca7a4eb7a30044d4a)
 
 ### Linguagem e Ferramentas
