@@ -42,3 +42,7 @@ Linguagens & Tecnologias: `CSS`, `HTML`
 **João Guilherme** \
 [**IFMA**](https://portal.ifma.edu.br/inicio/) • Pinheiro \
 Linguagens & Tecnologias: `CSS`, `HTML`
+
+</br>
+
+## Orientador
