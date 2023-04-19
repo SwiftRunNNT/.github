@@ -15,7 +15,9 @@ Acesso rapido
 [![Apple](https://img.shields.io/badge/-XCode-333333?style=for-the-badge&logo=apple)](https://developer.apple.com/xcode/)
 [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)](https://docs.github.com/pt)
 [![Jira](https://img.shields.io/badge/-Jira-333333?style=for-the-badge&logo=jira&logoColor=007ACC)](https://confluence.atlassian.com/jira)
+[![Splashtop](https://img.shields.io/badge/-Splashtop-333333?style=for-the-badge&logo=splashtop)](https://www.splashtop.com/)
 
+---
 ## Estudantes
 [<img align="left" height="84px" width="84px" alt="@LucasFelip" src="https://avatars.githubusercontent.com/LucasFelip?size=64">](https://github.com/LucasFelip)
 **Lucas Ferreira** \
@@ -46,3 +48,6 @@ Linguagens & Tecnologias: `CSS`, `HTML`
 </br>
 
 ## Orientador
+
+---
+![img.png](img.png)
