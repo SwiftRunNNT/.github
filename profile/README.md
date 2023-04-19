@@ -50,4 +50,4 @@ Linguagens & Tecnologias: `CSS`, `HTML`
 ## Orientador
 
 ---
-![img.png](img.png)
+![img.png](/profile/img.png)
