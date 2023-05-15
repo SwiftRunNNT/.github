@@ -9,9 +9,10 @@ Acesso rapido
 
 [![Classroom](https://img.shields.io/badge/-Classroom-333333?style=for-the-badge&logo=google-classroom)](https://classroom.google.com/u/0/c/NTQzMzM4ODIyMzAy)
 [![Notion](https://img.shields.io/badge/-Notion-333333?style=for-the-badge&logo=notion)](https://www.notion.so/Pesquisa-CBL-f57675fdf031403ca7a4eb7a30044d4a)
+[![Figma](https://img.shields.io/badge/-Figma-333333?style=for-the-badge&logo=figma)](https://www.figma.com/file/aupStUT9W2Phdf8KA9j2Lp/SwiftRun?type=design&node-id=0%3A1&t=lpvnzpengYKmMJ5s-1)
 
 ### Linguagem e Ferramentas
-[![Swift](https://img.shields.io/badge/-Swift-333333?style=for-the-badge&logo=swift)](https://www.swift.org/documentation/)
+[![Swift](https://img.shields.io/badge/-Swift-333333?style=for-the-badge&logo]=swift)](https://www.swift.org/documentation/)
 [![Apple](https://img.shields.io/badge/-XCode-333333?style=for-the-badge&logo=apple)](https://developer.apple.com/xcode/)
 [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)](https://docs.github.com/pt)
 [![Jira](https://img.shields.io/badge/-Jira-333333?style=for-the-badge&logo=jira&logoColor=007ACC)](https://confluence.atlassian.com/jira)
